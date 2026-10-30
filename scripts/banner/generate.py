@@ -38,22 +38,22 @@ PREFERRED_LOGO_ORDER = ("linux", "kubernetes")
 
 YAML_ROWS = [
     (0, "profile", ""),
-    (1, "subject", "Maria Claudia"),
-    (1, "role", "DevOps Engineer"),
-    (1, "origin", "Rosario, Argentina"),
-    (1, "focus", "CI/CD · Cloud Native · IaC"),
-    (1, "status", "Automatizacion · Escalado · Despliegue"),
-    (1, "toolchain", "Terraform · Helm · GitHub Actions"),
+    (1, "subject", "Mariana Carrasquilla Botero"),
+    (1, "role", "Computer Systems Engineer"),
+    (1, "origin", "Medellin, Colombia"),
+    (1, "focus", "Full-Stack Dev · GenAI & LLMs · Deep Learning"),
+    (1, "education", "B.S. Systems Engineering @ EAFIT"),
+    (1, "spoken", "Spanish (Native) · English (B2)"),
     (0, "stack", ""),
-    (1, "cloud", "AWS · Azure"),
-    (1, "containers", "Kubernetes · Docker · Helm"),
-    (1, "iac", "Terraform · Ansible"),
-    (1, "observability", "Prometheus · Datadog · Sentry"),
-    (1, "automation", "Python · Bash · JavaScript"),
+    (1, "ai_ml", "PyTorch · TensorFlow · Scikit-Learn · Gemini"),
+    (1, "languages", "Python · TypeScript/JavaScript · PHP "),
+    (1, "backend", "NestJS · Laravel · Django · MySQL"),
+    (1, "frontend", "HTML/CSS · Vue.js · Tailwind"),
+    (1, "cloud_tools", "Docker · GCP · AWS · Git"),
     (0, "contact", ""),
-    (1, "linkedin", "/in/mcperezes"),
-    (1, "github", "macu-dev"),
-    (1, "timezone", "UTC-3 · Rosario"),
+    (1, "email", "mcarrasquilla323@gmail.com"),
+    (1, "linkedin", "/in/mariana-carrasquilla-botero"),
+    (1, "github", "mcarrasqub"),
 ]
 
 THEMES = {
@@ -473,7 +473,7 @@ def render_svg(
             f'stroke="{t["chrome"]}"/>',
             f'<text x="1062" y="111" text-anchor="middle" fill="{t["chrome"]}" '
             'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" '
-            'font-weight="700">@macu-dev</text>',
+            'font-weight="700">@mcarrasqub</text>',
         ]
     )
 
