@@ -53,7 +53,7 @@
     <tr>
       <td valign="top"><code>├─ ⚙ backend_architecture:</code><br><br>
         <img src="https://skillicons.dev/icons?i=nestjs,laravel,django" alt="NestJS, Laravel y Django"><br>
-        <sub><code>NestJS · Laravel · Django · Arquitectura MVC · Clean Code (DRY)</code></sub>
+        <sub><code>NestJS · Laravel · Django</code></sub>
       </td>
       <td valign="top"><code>├─ 🎨 frontend_ui:</code><br><br>
         <img src="https://skillicons.dev/icons?i=vue,html,css,tailwind,figma" alt="Vue.js, HTML, CSS, Tailwind CSS y Figma"><br>
@@ -63,7 +63,7 @@
     <tr>
       <td valign="top"><code>├─ ▣ databases_modeling:</code><br><br>
         <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL y MongoDB"><br>
-        <sub><code>MySQL · MongoDB · Modelo Relacional y Documental</code></sub>
+        <sub><code>MySQL · MongoDB</code></sub>
       </td>
       <td valign="top"><code>╰─ ☁ cloud_tools_devops:</code><br><br>
         <img src="https://skillicons.dev/icons?i=docker,gcp,aws,git,github" alt="Docker, GCP, AWS, Git y GitHub"><br>
